@@ -1,7 +1,7 @@
 # Insurance Cost Prediction
 
 ## Overview
-Insurance Cost Prediction is a machine learning project aimed at predicting the cost of medical insurance based on various factors like age, BMI, smoking status, and region. This project uses regression models to analyze historical data and estimate insurance premiums accurately.
+Insurance Cost Prediction is a Machine learning project aimed at predicting the cost of medical insurance based on various factors like age, BMI, smoking status, and region. This project uses regression models to analyze historical data and estimate insurance premiums accurately.
 
 ## Features
 - Data preprocessing and exploratory data analysis (EDA)
