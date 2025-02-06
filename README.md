@@ -12,7 +12,8 @@ Insurance Cost Prediction is a Machine Learning project aimed at predicting the 
 
 ## Technologies Used
 - Python
-- Pandas, NumPy
+- Pandas
+- NumPy
 - Matplotlib, Seaborn
 - Scikit-learn
 - Jupyter Notebook
